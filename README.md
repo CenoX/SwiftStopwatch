@@ -31,7 +31,7 @@ let package = Package(
     targets: [
         .target(
             name: "YourProject",
-            dependencies: ["SwiftStopwatch"]),
+            dependencies: ["Stopwatch"]),
     ]
 )
 ```
@@ -39,7 +39,7 @@ let package = Package(
 ## Usage
 
 ```swift
-import SwiftStopwatch
+import Stopwatch
 
 func doSomeWork() {
     let sw = Stopwatch.startNew()
