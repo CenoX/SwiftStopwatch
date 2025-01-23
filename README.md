@@ -69,4 +69,4 @@ We mirrored the API to maintain consistency, but we replaced QueryPerformanceCou
 
 ## License
 
-MIT License. See [LICENSE]("./licence.md") for details.
+MIT License. See [LICENSE](license.md) for details.
